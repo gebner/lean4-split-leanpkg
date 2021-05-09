@@ -1,0 +1,7 @@
+[package]
+name = "core"
+version = "0.1"
+lean_version = "leanprover/lean4:nightly-2021-05-08"
+
+[dependencies]
+prelude = { path = "../prelude" }
